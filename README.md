@@ -16,8 +16,11 @@
 6) Rear Uppercut
 
 This benchmark is developed to address the lack of domain-specific datasets in combat sports and is intended for tasks such as action recognition, temporal localization, pose-based classification, and skill assessment.# BoxingX-A-Multi-Modal-Benchmark-for-Boxing-Action-Recognition-and-Localization
+
 🗃️Dataset Features
-📹 Total Clips: 6,915
+
+Total Clips: 6,915
+
 >Training: 5,513 (Subjects S1–S15)
 
 >Validation: 1,402 (Subjects S16–S20)
