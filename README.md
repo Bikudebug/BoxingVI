@@ -55,5 +55,5 @@ Pose Normalization:
 
 - Poses padded to max 25 frames (30 fps)
 
-## The pose estimations from the RGB videos are extracted using the [**AlphaPose**](https://arxiv.org/abs/1812.08008) model, and the estimated poses follow the [**COCO format**](https://cocodataset.org/#keypoints-2020).
+## The pose estimations from the RGB videos are extracted using the [**AlphaPose**]([https://arxiv.org/abs/1812.08008](https://github.com/MVIG-SJTU/AlphaPose?tab=readme-ov-file)) model, and the estimated poses follow the [**COCO format**](https://cocodataset.org/#keypoints-2020).
 
