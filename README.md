@@ -59,14 +59,15 @@ Pose Normalization:
 ## 📂 Dataset Structure
 ```bash
 dataset/
-├── Annotation_files ###(start_frame, end_frame, punch_class)
+├── Annotation_files 
 ├── RGB_videos 
 └── Skeleton_data
 ```
 The dataset is organized into the following format:
 
 - The **`Annotation_file`** contains punch metadata in the format:  
-This information is stored in an Excel (.xlsx) file, where each row corresponds to a single punch clip.
+This information is stored in an Excel (.xlsx) file, where each row in the annotation file corresponds to a single punch clip and follows the structure:
+## (start_frame, end_frame, punch_class)
 
 We will provide a public link to access this dataset after publication.
 📥 **[Download Dataset (Available after publication)](https://drive.google.com/drive/folders/1Vyl8twJQ1qkqEPwhvfsrJsJ8nLQ92uoy)**
