@@ -56,4 +56,16 @@ Pose Normalization:
 - Poses padded to max 25 frames (30 fps)
 
 ## The pose estimations from the RGB videos are extracted using the [**AlphaPose**](https://github.com/MVIG-SJTU/AlphaPose?tab=readme-ov-file) model, and the estimated poses follow the [**COCO format**](https://cocodataset.org/#format-data).
+## 📂 Dataset Structure
+
+The dataset is organized into the following format:
+
+- The **`Annotation_file`** contains punch metadata in the format:  
+This information is stored in an Excel (.xlsx) file, where each row corresponds to a single punch clip.
+
+We will provide a public link to access this dataset after publication.
+📥 **[Download Dataset (Available after publication)](https://drive.google.com/drive/folders/1Vyl8twJQ1qkqEPwhvfsrJsJ8nLQ92uoy)**
+
+
+
 
