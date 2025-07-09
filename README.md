@@ -21,36 +21,36 @@ This benchmark is developed to address the lack of domain-specific datasets in c
 
 Total Clips: 6,915
 
->Training: 5,513 (Subjects S1–S15)
+- Training: 5,513 (Subjects S1–S15)
 
->Validation: 1,402 (Subjects S16–S20)
+- Validation: 1,402 (Subjects S16–S20)
 
 Punch Types (6 classes):
 
->Cross, Jab, Lead Hook, Lead Uppercut, Rear Hook, Rear Uppercut
+- Cross, Jab, Lead Hook, Lead Uppercut, Rear Hook, Rear Uppercut
 
 Videos: 20 unedited YouTube videos
 
->>18 athletes (11 male, 7 female)
+- 18 athletes (11 male, 7 female)
 
-Real-world, monocular RGB recordings
+- Real-world, monocular RGB recordings
 
 Annotations:
 
->Temporal punch boundaries
+- Temporal punch boundaries
 
->Per-clip class labels
+- Per-clip class labels
 
->Frame-wise 2D pose keypoints (AlphaPose)
+- Frame-wise 2D pose keypoints (AlphaPose)
 
 Pose Tracking:
 
->Center-of-mass tracking
+- Center-of-mass tracking
 
->Person of interest selected and tracked across frames
+- Person of interest selected and tracked across frames
 
 Pose Normalization:
 
->Keypoints scaled to video dimensions
+- Keypoints scaled to video dimensions
 
->Poses padded to max 25 frames (30 fps)
+- Poses padded to max 25 frames (30 fps)
