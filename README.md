@@ -1,4 +1,4 @@
-### **BoxingX: A Multi-Modal Benchmark for Boxing Action Recognition and Localization**
+# **BoxingX: A Multi-Modal Benchmark for Boxing Action Recognition and Localization**
 ![Dataset_page-0001 (1)](https://github.com/user-attachments/assets/a2b83031-14a3-4779-8eaa-89cb11cb3ebd)
 
 🥊BoxingX is a large-scale, richly annotated benchmark dataset specifically created to advance research in vision-based analysis of boxing actions. The dataset comprises 6,915 finely segmented punch clips extracted from 20 unedited YouTube boxing videos, covering six distinct punch types:
