@@ -58,9 +58,9 @@ Pose Normalization:
 ## The pose estimations from the RGB videos are extracted using the [**AlphaPose**](https://github.com/MVIG-SJTU/AlphaPose?tab=readme-ov-file) model, and the estimated poses follow the [**COCO format**](https://cocodataset.org/#format-data).
 ## 📂 Dataset Structure
 dataset/
-├── Annotation_files/ # Punch annotations with temporal boundaries and class labels
-├── RGB_videos/ # Raw video clips segmented by punch type
-└── Skeleton_data/ # 2D pose keypoints extracted using AlphaPose (in COCO format)
+├── Annotation_files/ 
+├── RGB_videos/ 
+└── Skeleton_data/ 
 The dataset is organized into the following format:
 
 - The **`Annotation_file`** contains punch metadata in the format:  
