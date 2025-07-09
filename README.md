@@ -60,7 +60,7 @@ Pose Normalization:
 ## The pose estimations from the RGB videos are extracted using the [**AlphaPose**](https://github.com/MVIG-SJTU/AlphaPose?tab=readme-ov-file) model, and the estimated poses follow the [**COCO format**](https://cocodataset.org/#format-data).
 ## 📂 Dataset Structure
 ```bash
-dataset/
+Dataset/
 ├── Annotation_files 
 ├── RGB_videos 
 └── Skeleton_data
