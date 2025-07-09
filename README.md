@@ -59,9 +59,9 @@ Pose Normalization:
 ## 📂 Dataset Structure
 ```bash
 dataset/
-├── Annotation_files/
-├── RGB_videos/
-└── Skeleton_data/
+├── Annotation_files ###(start_frame, end_frame, punch_class)
+├── RGB_videos 
+└── Skeleton_data
 ```
 The dataset is organized into the following format:
 
