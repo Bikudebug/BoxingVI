@@ -44,7 +44,7 @@ Annotations:
 - Frame-wise 2D pose keypoints (AlphaPose)
 
 Pose Tracking:
-
+Annotation_file/ # Punch annotations with temporal boundaries and class labels
 - Center-of-mass tracking
 
 - Person of interest selected and tracked across frames
@@ -57,7 +57,10 @@ Pose Normalization:
 
 ## The pose estimations from the RGB videos are extracted using the [**AlphaPose**](https://github.com/MVIG-SJTU/AlphaPose?tab=readme-ov-file) model, and the estimated poses follow the [**COCO format**](https://cocodataset.org/#format-data).
 ## 📂 Dataset Structure
-
+dataset/
+├── Annotation_files/ # Punch annotations with temporal boundaries and class labels
+├── RGB_videos/ # Raw video clips segmented by punch type
+└── Skeleton_data/ # 2D pose keypoints extracted using AlphaPose (in COCO format)
 The dataset is organized into the following format:
 
 - The **`Annotation_file`** contains punch metadata in the format:  
