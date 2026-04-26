@@ -1,3 +1,18 @@
+<table style="border-collapse: collapse; border: 0;">
+  <tr style="border: 0;">
+    <td width="17%" align="center" style="border: 0;">
+      <img src="Figure/boxing.gif" alt="Javelin Throw Animation" width="130">
+    </td>
+    <td width="83%" style="border: 0;">
+      <h3>BoxingVI: A Multi-Modal Benchmark for Boxing Action Recognition and Localization</h3>
+      <p>
+        📄 <strong>Paper available at:</strong>
+        <a href="https://arxiv.org/pdf/2511.16524">https://arxiv.org/pdf/2511.16524</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 # **BoxingVI: A Multi-Modal Benchmark for Boxing Action Recognition and Localization**
 📑 *[Paper Link](https://arxiv.org/pdf/2511.16524)*
 
