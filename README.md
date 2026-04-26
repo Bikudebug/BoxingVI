@@ -67,7 +67,6 @@ Pose Normalization:
 
 - Poses padded to max 25 frames (30 fps)
 
-![FightingOshaeJonesGIF](https://github.com/user-attachments/assets/054a7163-eb6f-4c56-b3a3-cafcc48eb310)
 
 ## The pose estimations from the RGB videos are extracted using the [**AlphaPose**](https://github.com/MVIG-SJTU/AlphaPose?tab=readme-ov-file) model, and the estimated poses follow the [**COCO format**](https://cocodataset.org/#format-data).
 ## 📂 Dataset Structure
