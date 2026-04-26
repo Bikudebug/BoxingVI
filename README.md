@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse; border: 0;">
   <tr style="border: 0;">
-    <td width="17%" align="center" style="border: 0;">
+    <td width="22%" align="center" style="border: 0;">
       <img src="Figure/boxing.gif" alt="Javelin Throw Animation" width="130">
     </td>
     <td width="83%" style="border: 0;">
