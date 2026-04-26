@@ -74,6 +74,19 @@ This information is stored in an Excel (.xlsx) file, where each row in the annot
 We will provide a public link to access this dataset after publication.
 📥 **[Download Dataset (Available after publication)](https://drive.google.com/drive/folders/1Vyl8twJQ1qkqEPwhvfsrJsJ8nLQ92uoy)**
 
+---
 
+## **Citation**
+
+If you use Throwing4 in your research, please cite:
+
+```bibtex
+@article{kumar2025boxingvi,
+  title={BoxingVI: A Multi-Modal Benchmark for Boxing Action Recognition and Localization},
+  author={Kumar, Rahul and Baghel, Vipul and Singh, Sudhanshu and Badatya, Bikash Kumar and Yadav, Shivam and Srinivasan, Babji and Hegde, Ravi},
+  journal={arXiv preprint arXiv:2511.16524},
+  year={2025}
+}
+```
 
 
