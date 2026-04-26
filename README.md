@@ -72,7 +72,7 @@ This information is stored in an Excel (.xlsx) file, where each row in the annot
 ## (start_frame, end_frame, punch_class)
 
 Link to access this dataset.
-📥 **[Download Dataset (Available after publication)](https://drive.google.com/drive/folders/1Vyl8twJQ1qkqEPwhvfsrJsJ8nLQ92uoy)**
+📥 **[Download Dataset](https://drive.google.com/drive/folders/1Vyl8twJQ1qkqEPwhvfsrJsJ8nLQ92uoy)**
 
 ---
 
